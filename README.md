@@ -1,6 +1,6 @@
 # DayZCommunityOfflineMode 4.1
 
-The DayZ Community Offline Mode offers the ability, to explore the world of DayZ in a singleplayer environment. While this mode does not represent the actual DayZ gameplay it offers other possibilites for developers, content creators and player who do want to experiment around but not loose all their progress from online.
+The DayZ Offline Mode offers the ability, to explore the world of DayZ in a singleplayer environment. While this mode does not represent the actual DayZ gameplay it offers other possibilites for developers, content creators and player who do want to experiment around but not loose all their progress from online.
 
 This is UNOFFICIAL, so don't blame the DayZ development team if this is not working at all for you!
 
