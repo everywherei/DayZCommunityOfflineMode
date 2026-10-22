@@ -24,6 +24,8 @@ Place the ```Missions``` folder inside your DayZ game directory (```For example:
 Now you now start the script ```DayZ/Missions/DayZCommunityOfflineMode.ChernarusPlus/DayZCommunityOfflineMode.bat``` to start the game. You will be loaded directly into the offline mode. Now open the folder for each map and run the .bat file located inside each map's folder in the “Missions” folder; this will launch the game directly.   
 Or add the following start parameter to your game: ```-mission=.\Missions\DayZCommunityOfflineMode.ChernarusPlus```
 
+TUTORIAL: https://youtu.be/Pgaf3aBZ14s
+
 To uninstall this mod, simple delete all downloaded files, and rename your .disabled folders back to their original name.   
 You might delete your whole ```Missions``` folder and validate your game files via steam to get the original DayZ files back.
 
