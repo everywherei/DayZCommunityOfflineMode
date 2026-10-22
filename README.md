@@ -10,6 +10,8 @@ This is UNOFFICIAL, so don't blame the DayZ development team if this is not work
 * Sakhal (you need to have purchased the Frostline DLC; otherwise, the map will appear empty without assets)
 * Namalsk (the map files must be downloaded beforehand from the DAYZ servers or the workshop; they are not included in the base game.)
 
+[![DAYZ](https://img.youtube.com/vi/Pgaf3aBZ14s/hqdefault.jpg)](https://www.youtube.com/watch?v=Pgaf3aBZ14s)
+
 # Info for server owners & mappers
 There is now a wiki page available on how to use the community offline mode to spawn map objects on your server or mission you are working on: [Add custom objects to your server or mission](https://github.com/Arkensor/DayZCommunityOfflineMode/wiki/Add-custom-objects-to-your-server-or-mission)
 
