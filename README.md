@@ -8,12 +8,12 @@ This is UNOFFICIAL, so don't blame the DayZ development team if this is not work
 There is now a wiki page available on how to use the community offline mode to spawn map objects on your server or mission you are working on: [Add custom objects to your server or mission](https://github.com/Arkensor/DayZCommunityOfflineMode/wiki/Add-custom-objects-to-your-server-or-mission)
 
 # Installation
-Download [this](https://github.com/Arkensor/DayZCommunityOfflineMode/releases/download/v4.1/DayZ.Community.OfflineMode.zip) zip archive.  
+Download the repository and copy the “Missions” folder to the game's root directory.
 Make sure you are on the latest `STABLE` or `EXPERIMENTAL` version of the game.
 
 Place the ```Missions``` folder inside your DayZ game directory (```For example: C:\Program Files (x86)\Steam\steamapps\common\DayZ```).  
 
-Now you now start the script ```DayZ/Missions/DayZCommunityOfflineMode.ChernarusPlus/DayZCommunityOfflineMode.bat``` to start the game. You will be loaded directly into the offline mode.  
+Now you now start the script ```DayZ/Missions/DayZCommunityOfflineMode.ChernarusPlus/DayZCommunityOfflineMode.bat``` to start the game. You will be loaded directly into the offline mode. Now open the folder for each map and run the .bat file located inside each map's folder in the “Missions” folder; this will launch the game directly.   
 Or add the following start parameter to your game: ```-mission=.\Missions\DayZCommunityOfflineMode.ChernarusPlus```
 
 To uninstall this mod, simple delete all downloaded files, and rename your .disabled folders back to their original name.   
