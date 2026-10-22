@@ -29,6 +29,8 @@ TUTORIAL: https://youtu.be/Pgaf3aBZ14s
 To uninstall this mod, simple delete all downloaded files, and rename your .disabled folders back to their original name.   
 You might delete your whole ```Missions``` folder and validate your game files via steam to get the original DayZ files back.
 
+<img src="https://i.imgur.com/3PReFe9.jpeg" alt="Descripción de la imagen" width="100%">
+
 # Controls
 * Y (Z for QWERTZ-Keyboard) - Open the COM toolbar menu.
 * X - Toggle Autojog/walk/run
