@@ -4,11 +4,11 @@ The DayZ Community Offline Mode offers the ability, to explore the world of DayZ
 
 This is UNOFFICIAL, so don't blame the DayZ development team if this is not working at all for you!
 
-Included maps: 
--Livonia ---> Enoch
--ChernarusPlus
--Sakhal (you need to have purchased the DLC; otherwise, the map will appear empty without assets)
--Namalsk (the map files must be downloaded beforehand from the DAYZ servers; they are not included in the base game.)
+* Included maps: 
+* -Livonia ---> Enoch
+* -ChernarusPlus
+* -Sakhal (you need to have purchased the DLC; otherwise, the map will appear empty without assets)
+* -Namalsk (the map files must be downloaded beforehand from the DAYZ servers; they are not included in the base game.)
 
 # Info for server owners & mappers
 There is now a wiki page available on how to use the community offline mode to spawn map objects on your server or mission you are working on: [Add custom objects to your server or mission](https://github.com/Arkensor/DayZCommunityOfflineMode/wiki/Add-custom-objects-to-your-server-or-mission)
