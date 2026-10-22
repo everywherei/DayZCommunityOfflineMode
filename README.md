@@ -4,7 +4,7 @@ The DayZ Offline Mode offers the ability, to explore the world of DayZ in a sing
 
 This is UNOFFICIAL, so don't blame the DayZ development team if this is not working at all for you!
 
-* Included maps: 
+Included maps: 
 * Enoch = Livonia
 * ChernarusPlus
 * Sakhal (you need to have purchased the Frostline DLC; otherwise, the map will appear empty without assets)
